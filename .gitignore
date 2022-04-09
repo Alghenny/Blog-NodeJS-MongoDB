@@ -1,0 +1,5 @@
+/node_modules
+constant.js
+npm-debug.log
+.DS_Store
+/*.env
