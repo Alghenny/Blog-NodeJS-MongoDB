@@ -3,10 +3,16 @@
 Simple Blog Page
 
 Built using:
- Node.JS
+ 
+Node.JS
+
  ExpressJS
+	
  EJS
+	
  MongolDB(Cloud)
+	
  Bootstrap
+	
  CSS
  
